@@ -6,4 +6,5 @@ Python Updates.
 3.OCR
 4.Crypto
 5.FaceProcessing
-6.ImageProcessing
+6.WordProcessing
+7.ImageProcessing
